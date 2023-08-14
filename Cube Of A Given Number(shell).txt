@@ -1,0 +1,5 @@
+#!/bin/shift
+echo "Enter The Number = "
+read a
+cube=$((a*a*a))
+echo "Cube Of "$a" = "$cube

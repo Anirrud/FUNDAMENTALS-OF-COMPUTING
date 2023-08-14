@@ -1,0 +1,5 @@
+#!/bin/shift
+echo "Enter The Number = "
+read a
+square=$((a*a))
+echo "square Of "$a" = "$square
